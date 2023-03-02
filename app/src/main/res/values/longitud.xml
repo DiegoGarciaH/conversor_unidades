@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="longitud" >
+        <item>Metro</item>
+        <item>Centimetro</item>
+        <item>Milla</item>
+        <item>Yarda</item>
+        <item>Pie</item>
+        <item>Pulgada</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_Conversor</string>
+    <string name="title_home">Longitud</string>
+    <string name="title_dashboard">Peso</string>
+    <string name="title_notifications">Volumen</string>
+    <string name="title_temperatura">Temperatura</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor">Ingrese una cantidad</string>
+    <string name="resultado">Resultado</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volumen" >
+        <item>Litro</item>
+        <item>Mililitro</item>
+        <item>Metro Cubico</item>
+        <item>Galon</item>
+        <item>Pie Cubico</item>
+    </string-array>
+</resources>
